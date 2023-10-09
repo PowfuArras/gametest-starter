@@ -1,0 +1,42 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Gametest Starter by TsranunaPogazu",
+        "name": "Gametest Starter",
+        "uuid": "f51ef98e-c64c-4ec2-8ef4-e1f7b037c5ee",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Gametest Starter Module",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "ee5157b6-f140-49e7-98d0-c5d06b269d22",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/build/index.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.6.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.2.0-beta"
+        }
+    ]
+}
