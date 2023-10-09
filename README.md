@@ -29,3 +29,6 @@ To build your GameTest you are going to use typescript. This starter pack includ
 
 ## Resources
 For more information about the GameTest Framework refer to the [Script API Reference Documentation](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/)
+
+## Updating
+It's not quite difficult to update this pack to use the latest and greatest GameTest Framework features yourself, but I am unfortunately too lazy to write as of now. Just know this is built for Minecraft: Bedrock Edition 1.20.32. I'll update it myself for now.
